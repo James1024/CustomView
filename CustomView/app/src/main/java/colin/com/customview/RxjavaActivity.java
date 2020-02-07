@@ -18,5 +18,7 @@ public class RxjavaActivity extends BaseActivity {
     public void setUp() {
         System.out.println("test");
         System.out.println("test2.0.1");
+        System.out.println("3.0.0");
+        System.out.println("4.0.0");
     }
 }
