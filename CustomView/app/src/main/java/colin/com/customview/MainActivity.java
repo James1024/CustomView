@@ -26,6 +26,10 @@ public class MainActivity extends BaseActivity {
 
 
     private List<String> list = new ArrayList<>(10);
+    private List<String> list1 = new ArrayList<>(10);
+    private List<String> list2= new ArrayList<>(10);
+    private List<String> list3 = new ArrayList<>(10);
+
 
 
     @Override
