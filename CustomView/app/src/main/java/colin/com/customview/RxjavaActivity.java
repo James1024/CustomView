@@ -17,6 +17,7 @@ public class RxjavaActivity extends BaseActivity {
     @Override
     public void setUp() {
         System.out.println("test");
-        System.out.println("test2.0.1");
+        System.out.println("test2.0.2");
+
     }
 }
